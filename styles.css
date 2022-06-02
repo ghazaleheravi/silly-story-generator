@@ -26,7 +26,7 @@ body {
 .par {
   padding: 70px;
   padding-bottom: 200px;
-  background: url(./one.jpg) center no-repeat;
+  background: url('./one.jpg') center no-repeat;
   background-size: cover;
   box-shadow: 4px 4px 4px rgba(0,0,0,0.5),
     2px 2px 4px rgba(0,0,0,0.5);
